@@ -42,3 +42,7 @@ Thumbs.db
 *~
 
 .history/
+
+# Ignore uploaded files
+backend/uploads/*
+!backend/uploads/.gitkeep
